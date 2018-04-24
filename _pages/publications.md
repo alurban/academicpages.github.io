@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+The following publications report on studies I was directly involved in, analyzed data for, or contributed text, figures, and data products to:
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
