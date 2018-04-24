@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Dr. Alex L. Urban"
   avatar           : "profile.png"
-  bio              : "Research Associate, LIGO Livingston Observatory"
+  bio              : "Research Associate, LSU and LIGO Livingston Observatory"
   location         : "Baton Rouge, Louisiana, USA"
   employer         : "Louisiana State University"
-  googlescholar    : "https://scholar.google.com/scholar?q=Urban%2C+Alex+L.%3B+LIGO%3B+iPTF14yb&btnG=&hl=en&as_sdt=0%2C5"
+  googlescholar    :
   email            : "aurban1@lsu.edu"
   uri              :
   bitbucket        :
