@@ -25,7 +25,6 @@ redirect_from:
 * Senior Thesis: *Modeling Second-Order Phase Transitions with the 3D Potts Model*
 
 ---
-
 ## Academic Positions
 
 ### Research Associate
@@ -46,15 +45,20 @@ redirect_from:
 * Projects: Multimessenger astronomy; compact binary astrophysics
 * Advisor: Prof. Patrick Brady
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
+## Relevant Skills
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Software development
+  * Python, Bash scripting, HTML, SQL, C, Fortran
+* Data analysis and simulation techniques
+  * Python (signal processing, filter design, data visualization, numerical integration, statistical inference, web scraping)
+  * MATLAB (signal processing, filter design, visualization)
+  * Condor (high-throughput computing and job scheduling)
+* Controls engineering
+  * Experimental Physics and Industrial Control System (EPICS), Motif Editor and Display Manager (MEDM)
+
+---
+## Service Membership
+
+* LIGO Laboratory, 2016 - present
+* LIGO Scientific Collaboration, 2012 - present
