@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alex L. Urban"
 title_separator          : "-"
-name                     : &name "Dr. Alex L. Urban"
+name                     : &name "Alex Urban"
 description              : &description "Research Associate at Louisiana State University"
 url                      : https://alurban.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex L. Urban"
+  name             : "Dr. Alex L. Urban"
   avatar           : "profile.png"
-  bio              : "Research Associate at Louisiana State University and LIGO Livingston Observatory"
+  bio              : "Research Associate, LIGO Livingston Observatory"
   location         : "Baton Rouge, Louisiana, USA"
   employer         : "Louisiana State University"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/scholar?q=Urban%2C+Alex+L.%3B+LIGO%3B+iPTF14yb&btnG=&hl=en&as_sdt=0%2C5"
   email            : "aurban1@lsu.edu"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
