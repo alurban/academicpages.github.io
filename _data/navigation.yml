@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Research"
     url: /ligo/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/
         
   - title: "Tutorials"
     url: /year-archive/
