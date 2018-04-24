@@ -50,7 +50,7 @@ redirect_from:
 
 * Software development
   * Python, Bash scripting, HTML, SQL, C, Fortran
-  * Contributer to [GWPy](https://gwpy.github.io "GWPy documentation"), a Python package that enables LIGO data analysis
+  * Contributer to [GWPy](https://gwpy.github.io), a Python package that enables LIGO data analysis
 * Data analysis and simulation techniques
   * Python (signal processing, filter design, data visualization, numerical integration, statistical inference, web scraping)
   * MATLAB (signal processing, filter design, visualization)
