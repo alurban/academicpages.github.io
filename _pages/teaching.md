@@ -7,11 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-> Science is a cooperative enterprise, spanning the generations. 
-> It’s the passing of a torch from teacher, to student, to teacher.
-
-Neil deGrasse Tyson, *Cosmos: A Spacetime Odyssey*
-
 ## Caltech
 
 * Guest lecture, vibrations and waves
