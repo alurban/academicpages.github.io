@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me - Alex L. Urban"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
