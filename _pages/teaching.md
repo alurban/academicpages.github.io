@@ -19,7 +19,7 @@ Below is a list of courses I have taught and projects I have mentored undergradu
   * Constraining binary black hole merger scenarios that predict optical, X-ray, or *γ*-ray counterparts
 * Independent Study, 2016-2017
   * Topics included radiation of gravitational waves; tidal deformation; equation of state models for white dwarfs and neutron stars; the compact object mass–radius relationship; the Chandrasekhar mass limit for white dwarfs; mass and spin constraints from electromagnetic counterparts of black hole–neutron star mergers
-  * Link to materials: http://github.com/alurban/mentoring
+  * Materials hosted on [GitHub](http://github.com/alurban/mentoring)
 
 ### Courses
 
