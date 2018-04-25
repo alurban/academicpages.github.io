@@ -63,5 +63,7 @@ redirect_from:
 
 ## Service Membership
 
+* 2017 Caltech LIGO SURF program co-coordinator
 * LIGO Laboratory, 2016 - present
 * LIGO Scientific Collaboration, 2012 - present
+* American Physical Society, 2009 - present
