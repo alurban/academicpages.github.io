@@ -34,7 +34,6 @@ redirect_from:
 * Projects: Modeling He-OCS collisions in interstellar gas clouds
 * Advisor: Daniel Willey
 
----
 ## Education
 
 ### Ph.D., Physics
@@ -50,7 +49,6 @@ redirect_from:
 * Advisors: Shafiqur Rahman, James Lombardi
 * Senior Thesis: *Modeling Second-Order Phase Transitions with the 3D Potts Model*
 
----
 ## Relevant Skills
 
 * Software development
@@ -63,7 +61,6 @@ redirect_from:
 * Controls engineering
   * Experimental Physics and Industrial Control System (EPICS), Motif Editor and Display Manager (MEDM)
 
----
 ## Service Membership
 
 * LIGO Laboratory, 2016 - present
