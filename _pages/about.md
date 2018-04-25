@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Greetings!
-
 I am currently a **Research Associate** in the **Department of Physics and Astronomy**
 at **Louisiana State University**. I am also affiliated with
 [**LIGO Livingston Observatory**](http://ligo.caltech.edu/LA).
@@ -19,9 +17,9 @@ Gravitational-wave Observatory (LIGO). I assist with and provide support for the
 characterization effort, which seeks to improve LIGO data quality and sensitivity by understanding
 environmental noise sources and detector behavior. In the past my research activities have focused
 on calibration of the LIGO detectors, compact binary astrophysics, and joint observations of
-neutron star mergers with LIGO and traditional telescopes around the world.
+neutron star mergers using LIGO and more traditional telescopes around the world.
 
 Use the top banner to navigate between pages. Here you will find an overview of my
 teaching and mentoring experience, research interests, selected scientific publications, talks and
 presentations, and a set of tutorials for students and scientists new to LIGO. Finally, the last
-button (marked **CV**) provides an abridged digital version of my *curriculum vitae*.
+button provides an abridged digital version of my curriculum vitae.
